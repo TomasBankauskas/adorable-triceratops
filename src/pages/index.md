@@ -11,7 +11,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: lorem-ipsum
+      - label: Second
         url: lorem-ipsum
         style: link
         has_icon: false
